@@ -1,3 +1,17 @@
+<h1 align="center">{Spend Bill Gates' Money Game}</h1>
+<div align="center">
+  <h3>
+    <a href="https://spend-money-game.netlify.app">
+      Demo
+    </a>
+  </h3>
+</div>
+
+## Contact
+
+- GitHub [@Nihad18](https://github.com/Nihad18/)
+- Instagram [@nihad19_19](https://www.instagram.com/nihad19_19/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
