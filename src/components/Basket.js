@@ -23,7 +23,7 @@ function Basket({ basket, total, resetBasket }) {
           <div className="TotalDiv">
           {total > 0 && (
             <h2>
-              Total: <span className="total" id='total'>${formatter.format(total)}</span>
+              Total: <span className="total" id='total'>${(total).toLocaleString()}</span>
             </h2>
           )}
           </div>
